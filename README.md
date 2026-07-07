@@ -1,2 +1,28 @@
-# fa2dcf4b49cb94a7-dental-practice-automated-emai
-dental practice professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Dental Practice Automated Email Sequence Builder
+# Dental Practice Automated Email Sequence Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI00jfXx6Ak09a5bucZG1O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI00jfXx6Ak09a5bucZG1O)
+
